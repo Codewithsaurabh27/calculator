@@ -1,0 +1,100 @@
+
+.button{
+    padding: 25px 25px;
+    margin: 0px 5px;
+    border: 2px solid black;
+    border-radius: 7%;
+   
+    font-size: 33px;
+}
+
+.row{
+    margin: 8px 0px;
+}
+
+.input{
+   padding:13px 10px;
+   width: 310px;
+   font-size: 30px;
+   border: 2px solid black;
+}
+.button5{
+    padding: 25px 26px;
+}
+
+.button6{
+    padding: 25px 26px;
+
+}
+
+.button7{
+    padding: 25px 26px;
+
+}
+
+.button8{
+    padding: 25px 26px;
+    background-color: orange;
+
+}
+
+.button13{
+    padding: 25px 25px;
+}
+
+.button14{
+    padding: 25px 29px;
+
+}
+
+.button15{
+    padding: 25px 27px;
+
+}
+
+.button16{
+    padding: 25px 29px;
+    background-color: orange;
+
+}
+
+.button12{
+    background-color: orange;
+}
+
+.button4{
+    background-color: orange;
+}
+
+.button17{
+    padding: 20px  20px ;
+    height: 89px;
+    font-size: 21px;
+    font-weight: 600;
+    background-color: orange;
+    
+}
+
+.button18{
+    padding: 20px  20px ;
+    height: 89px;
+    font-size: 21px;
+    font-weight: 600;
+    background-color: rgb(156, 152, 144);
+}
+
+.button19{
+    padding: 20px  20px ;
+    height: 89px;
+    font-size: 21px;
+    font-weight: 600;
+    background-color: rgb(156, 152, 144);
+}
+
+.button20{
+    padding: 20px  25px ;
+    height: 89px;
+    font-size: 21px;
+    font-weight: 900;
+    background-color: rgb(156, 152, 144);
+}

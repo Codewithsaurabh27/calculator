@@ -1,0 +1,17 @@
+.Text-center{
+    text-align: center;
+}
+
+.mx-gray{
+    margin: auto;
+ }
+ 
+ .flex{
+     display: flex;
+ }
+ 
+ .flex-col{
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+ }
